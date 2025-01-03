@@ -14,7 +14,7 @@ O notebook é dividido em cinco partes:
 Características do problema e técnicas relevantes utilizadas:
 - Série histórica de vendas
 - Análise exploratória
-- Tratamento de dados (inclusive de strings e datas)
+- Tratamento de dados
 - Remoção e inferência de dados
 - Visualização de dados
 - Pré-processamento de dados para Machine Learning
